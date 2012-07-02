@@ -7,7 +7,14 @@ Hier nutze ich Git/GitHub als eine art Blog. Dies ist kein Software Repo! Alle A
 
 ##Beiträge / Posts:
 
-N/A
+* [15505-Internetdienste.md](https://github.com/SimonWaldherr/Die-Gedanken-sind-frei/blob/master/15504-Internetdienste.md)
+* [15506-BetterWorld.md](https://github.com/SimonWaldherr/Die-Gedanken-sind-frei/blob/master/15506-BetterWorld.md)
+* [15521-App-vs-Webapp.md](https://github.com/SimonWaldherr/Die-Gedanken-sind-frei/blob/master/15521-App-vs-Webapp.md)
+* [15522-RedaktionellerInhalt.md](https://github.com/SimonWaldherr/Die-Gedanken-sind-frei/blob/master/15522-RedaktionellerInhalt.md)
+
+	*Alle Beiträge werden in unregelmäßigen Abständen erweitert/ergänzt/überarbeitet.*
+	*Die Zahl vor dem Beitragstitel ist die Anzahl an Tage vom 01.01.1970 bis zur Erstellung des (Ur-)Beitrags.*
+	
 
 ---
 
@@ -63,5 +70,5 @@ ich bei / me at
 * [my page](http://simon.waldherr.eu/)
 
 
-
+--
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/de/80x15.png" /></a><br />Dieses Werk bzw. Inhalt steht unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">Creative Commons Namensnennung-Weitergabe unter gleichen Bedingungen 3.0 Deutschland Lizenz</a>.
