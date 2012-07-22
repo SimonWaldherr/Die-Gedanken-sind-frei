@@ -5,7 +5,11 @@
 ##Das Higgs Boson
 `the goddamn particle`
 
-`Der folgende Artikel erhebt keinen Anspruch auf 100%ige Korrektheit oder Vollständigkeit, viele Details oder Zahlen wurden weggelassen oder vereinfacht verwendet. Wer grobe Fehler oder Rechtschreibfehler entdeckt, kann diese per DM oder Pull-Request mitteilen.`
+---
+
+*Der folgende Artikel erhebt keinen Anspruch auf 100%ige Korrektheit oder Vollständigkeit, viele Details oder Zahlen wurden weggelassen oder vereinfacht verwendet. Wer grobe Fehler oder Rechtschreibfehler entdeckt, kann diese per DM oder Pull-Request mitteilen.*
+
+---
 
 In lezter Zeit wurde ich im privaten Umfeld gehäuft nach dem **Higgs Boson** gefragt, deshalb möchte ich hier eine kleine Erklärung dazu schreiben.  
 
@@ -37,7 +41,7 @@ Die nächste Frage ist dann natürlich "und was wird jetzt aus dem LHC?". Neben 
 
 Und zuletzt zur ersten Frage die im Zusammenhang mit dem LHC in den Massenmedien gefragt wurde: "Kann der LHC ein Schwarzes Loch erzeugen, welches die Erde vernichtet?". Ein stabiles Schwarzes Loch zu erzeugen, ist nicht einmal der Sonne möglich. Damit nach dem "Tod" eines Sterns ein stabiles stellares Schwarzes Loch entsteht muss dieser mindestens 3 Sonnenmassen schwer sein. Kleinere Schwarze Löcher, sogenannte Micro Black Holes sind derzeit nur eine Theorie. Sollte es möglich sein, mit einem Beschleuniger Schwarze Löcher zu erzeugen, ist davon auszugehen, dass auch auf natürlichem Wege im Kosmos solche Micro Black Holes entstehen. Da jedoch solche MBHs noch nicht entdeckt werden konnten, wird davon ausgegangen, dass sollte es solche wirklich geben, diese kurz nach Entstehung wieder zerstrahlen und somit verschwinden.  
 
-Da wir gerade bei Schwarzen Löchern sind und diese ständig zu Missverständnissen führen, möchte ich dazu noch eine kurze Erklärung abgeben. Der Begriff "Schwarzes Loch" wurde 1967 von John Archibald Wheeler eingeführt und lässt regelmäßig Leute davon ausgehen, dass es sich dabei um echte Löcher handelt, welche evtl. sogar noch irgendwo anders wieder heraus kommen. All das sind alles nur Theorien und konnten bisher nicht nachgewiesen werden. Klar jedoch ist, dass im Gegensatz zu einem leeren Loch schwarze Löcher nicht leer sind. Ganz im Gegenteil, sie sind die größten Ansammlungen von Materie und die Massereichsten Punkte im Universum.  
+Da wir gerade bei Schwarzen Löchern sind und diese ständig zu Missverständnissen führen, möchte ich dazu noch eine kurze Erklärung abgeben. Der Begriff "Schwarzes Loch" wurde 1967 von John Archibald Wheeler eingeführt und lässt regelmäßig Leute davon ausgehen, dass es sich dabei um echte Löcher handelt, welche evtl. sogar noch irgendwo anders wieder heraus kommen. All das sind alles nur Theorien und konnten bisher nicht nachgewiesen werden. Klar jedoch ist, dass im Gegensatz zu einem normalen Loch, schwarze Löcher nicht leer sind. Ganz im Gegenteil, sie sind die größten Ansammlungen von Materie und die Massereichsten Punkte im Universum.  
 Zwei weitere wichtige Begriffe im Zusammenhang mit Schwarzen Löchern sind Ereignishorizont (eng verwandt, jedoch nicht identisch mit dem Schwarzschildradius), sowie Hawking-Strahlung. Diese beiden Begriffe sind schnell erklärt, der Ereignishorizont ist eine Grenze, welche Informationen nicht überschreiten können. Der Ereignishorizont eines Schwarzen Lochs verhindert, dass man den Inhalt des Schwarzen Lochs sehen oder messen kann.  
 Die Hawking-Strahlung ist eine nach Stephen Hawking benannte Strahlung, welche von Schwarzen Löchern ausgeht, jedoch nach aktuellen Wissensstand nicht aus dem Inneren. Trotzdem führt die Hawking-Strahlung zu Masseverlust von Schwarzen Löchern, bis sie letztendlich komplett zerstrahlt sind.  
 
