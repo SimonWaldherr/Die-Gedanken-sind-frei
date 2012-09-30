@@ -1,7 +1,3 @@
-[Die-Gedanken-sind-frei](https://github.com/SimonWaldherr/die-gedanken-sind-frei)
-======================
----
-
 ##Das Higgs Boson
 `the goddamn particle`
 
@@ -48,7 +44,3 @@ Die Hawking-Strahlung ist eine nach Stephen Hawking benannte Strahlung, welche v
 Dies sollte die meisten Fragen die im Zusammenhang mit Teilchenbeschleunigern im allgemeinen, dem LHC im speziellen, sowie Higgs-Bosonen aufkommen allgemeinverständlich aber trotzdem informativ beantworten.  
 
 *dieser Text wird noch ergänzt ...*
-
----
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://sapienso.com/creativecommons/80x15.png" /></a><br />Dieses Werk bzw. Inhalt steht unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">Creative Commons Namensnennung-Weitergabe unter gleichen Bedingungen 3.0 Deutschland Lizenz</a>.<img src="https://sapienso.com/analytics/img/?utmac=UA-33526676-1&utmn=26364744&utmr=-&utmp=Die-Gedanken-sind-frei%2FHiggsBoson.md&guid=ON">

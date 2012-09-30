@@ -1,7 +1,3 @@
-[Die-Gedanken-sind-frei](https://github.com/SimonWaldherr/die-gedanken-sind-frei)
-======================
----
-
 ##Patente und Urheberrecht
 `Schutzrechte 2.0`
 
@@ -12,7 +8,3 @@ Wäre es nicht vernünftiger, in einer schnelllebigen Welt wie jetzt, ein automa
 Eine Zentrale (oder evtl. sogar ne dezentrale trackerless p2p) Anmeldestelle wäre in der heutigen Zeit nicht nur möglich, sondern sogar sehr vorteilhaft und leicht umsetzbar, sowie für Verwertungsgesellschaften wie z.B. die GEMA schon heute nötig, jedoch derzeit noch nicht vorhanden.  
 Eine kostenlose, kurzzeitige Schutzdauer für Erfindungen würde auch die Startup Szene fördern.
 *dieser Text wird noch ergänzt ...*
-
----
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://sapienso.com/creativecommons/80x15.png" /></a><br />Dieses Werk bzw. Inhalt steht unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">Creative Commons Namensnennung-Weitergabe unter gleichen Bedingungen 3.0 Deutschland Lizenz</a>.<img src="https://sapienso.com/analytics/img/?utmac=UA-33526676-1&utmn=1351706617&utmr=-&utmp=Die-Gedanken-sind-frei%2FPatente-und-Urheberrecht.md&guid=ON">

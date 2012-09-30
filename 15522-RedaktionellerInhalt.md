@@ -1,7 +1,3 @@
-[Die-Gedanken-sind-frei](https://github.com/SimonWaldherr/die-gedanken-sind-frei)
-======================
----
-
 ##Redaktioneller Inhalt
 `Quellenangaben und Recherche`
 
@@ -9,7 +5,3 @@ Des öfteren hört man von ewig gestrigen Journalisten, dass diese im Gegenzug z
 Ich möchte mit diesem Text den Berufsstand der Redakteure und Redakteurinnen nicht schlechter darstellen, als er ist, aber auf einige Probleme hinweisen die mich bei sogenannten Qualitätsjournalismus stören.  
 Nur all zu selten kann man im Printbereich noch Quellenangaben finden, auch Quellenangaben wie "Internet", "YouTube", "Wikipedia", ... finden sich vor allem bei Berufsjournalisten. Wenn man vernünftige Quellenangaben sucht, bleiben meist nur noch Blogs übrig. Würden diese einen Text aus einer Zeitung mit der Quellenangabe "Zeitung" oder "bedrucktes Papier" zitieren oder einen Fernsehausschnitt mit der Quellenangabe "TV" einbinden liesen die Probleme (Abmahnungen) nicht lange auf sich warten. Nun könnte man argumentieren, dass zumindest Wikipedia Artikel unter einer freien Lizenz zur verfügung stehen, jedoch legt diese Lizenz auch ein paar Vorschriften auf, welche nur selten erfüllt werden.  
 *dieser Text wird noch ergänzt ...*
-
----
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://sapienso.com/creativecommons/80x15.png" /></a><br />Dieses Werk bzw. Inhalt steht unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">Creative Commons Namensnennung-Weitergabe unter gleichen Bedingungen 3.0 Deutschland Lizenz</a>.<img src="https://sapienso.com/analytics/img/?utmac=UA-33526676-1&utmn=272708243&utmr=-&utmp=Die-Gedanken-sind-frei%2FRedaktionellerInhalt.md&guid=ON">

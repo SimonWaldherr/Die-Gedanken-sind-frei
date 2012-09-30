@@ -1,7 +1,11 @@
 Die-Gedanken-sind-frei
 ======================
 
-Hier nutze ich Git/GitHub als eine art Blog. Dies ist kein Software Repo! Alle Artikel sind, wie der Titel vermuten lässt, unter einer freien Lizenz, erhältlich (cc-by-sa)! Most of the content is in german, but sometimes in english!
+**ACHTUNG! Ich werde demnächst von GitHub Pages auf eine eigene Software umziehen, welche die Markdown Dateien als schön gestylte HTML-Dateien parst. Zusätzlich werden meine Tweets, sowie der Content einer ebenfalls neuen Software (myDict) eingebunden. Um in Zukunft auch Kommentare zu ermöglichen, wird auf jeder Seite eine Kommentarfunktion durch den Service DISQUS eingebunden.**  
+
+**Diese Software wird natürlich ebenfalls auf Github unter einer freien Lizenz zur Verfügung gestellt.**  
+
+Hier nutze ich Git/GitHub als eine art Blog. Dies ist kein Software Repo! Alle Artikel sind, wie der Titel vermuten lässt, unter einer freien Lizenz, erhältlich (cc-by-sa)! Most of the content is in german, but sometimes in english!  
 
 ---
 
@@ -70,8 +74,3 @@ ich bei / me at
 * [google+](http://simon.waldherr.eu/+)
 * [github](http://simon.waldherr.eu/gh)
 * [my page](http://simon.waldherr.eu/)
-
-
----
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/de/80x15.png" /></a><br />Dieses Werk bzw. Inhalt steht unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/">Creative Commons Namensnennung-Weitergabe unter gleichen Bedingungen 3.0 Deutschland Lizenz</a>.<img src="https://sapienso.com/analytics/img/?utmac=UA-33526676-1&utmn=1648374965&utmr=-&utmp=Die-Gedanken-sind-frei%2Freadme.md&guid=ON">
